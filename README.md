@@ -1,5 +1,11 @@
 # users-list
 
+<h2>🚀 Demo</h2>
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/dans100/userslist-vue/blob/develop/public/users_list.png" alt="project-screenshot" width="800" height="385/">
+
 ## Project setup
 ```
 yarn install
